@@ -1,6 +1,6 @@
 <h1 align="center"> Gabut Audio Tag </h1>
 <h1 align="center">
-    <img src="data/icons/128/com.github.gabutakut.gabutaudio.svg" alt="Gabut Download Manager">
+    <img src="data/icons/128/com.github.gabutakut.gabutaudio.svg" alt="Gabut Audio Tag">
 </h1>
 <h4 align="center">🌟 Simple Recognize Songs from your Computer 💫</h4>
 <h1 align="center">🚀 Release on ✈️</h1>
