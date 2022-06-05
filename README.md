@@ -18,10 +18,11 @@
 
 
 <h1 align="center">🤖 Gabut Audio 🤖</h1>
-<h2 align="center">🤖 GTK4 🤖</h2>
+<h2 align="center">🤖 GTK4 Writen in Valac 🤖</h2>
 <p align="center">
 Gabut Audio is a song identification application that uses can identify songs from files and microphones and internal speakers. Audio tags can also save information into your mp3 files so you don't have to bother with manual editing of your music. just one press of the application will identify then the info will be stored in the music layer mp3 m4a and flac.
 </p>
+
 ####This application relies heavily on:
 1. [AudD](https://dashboard.audd.io/) as an identifier songs
 2. taglib as a music tagger
@@ -41,4 +42,16 @@ Gabut Audio is a song identification application that uses can identify songs fr
 <h1 align="center">🏡 History identifier of GabutAudio 🙈</h1>
 <p align="center">
     <img src="Screenshot3.png" alt="Home">
+</p>
+<h1 align="center">🤩 Result Input microphone of GabutAudio 🙈</h1>
+<p align="center">
+    <img src="Screenshot4.png" alt="Home">
+</p>
+<h1 align="center">🚅 Result  Internal audio card of GabutAudio 🙈</h1>
+<p align="center">
+    <img src="Screenshot5.png" alt="Home">
+</p>
+<h1 align="center">🧩  Result identifier from File of GabutAudio 🙈</h1>
+<p align="center">
+    <img src="Screenshot6.png" alt="Home">
 </p>
