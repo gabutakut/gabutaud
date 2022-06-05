@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Gabut Tag
+Comment=Tag your Music
+GenericName=GenericName
+Exec=com.github.gabutakut.gabutaudio %U
+Icon=com.github.gabutakut.gabutaudio
+Terminal=false
+Categories=Utility;
+Keywords=GabutAudio
