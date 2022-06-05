@@ -19,7 +19,7 @@
 
 <h1 align="center">🤖 Gabut Audio 🤖</h1>
 <h2 align="center">🤖 GTK4 Writen in Valac 🤖</h2>
-<p align="center">
+<p align="start">
 Gabut Audio is a song identification application that uses can identify songs from files and microphones and internal speakers. Audio tags can also save information into your mp3 files so you don't have to bother with manual editing of your music. just one press of the application will identify then the info will be stored in the music layer mp3 m4a and flac.
 </p>
 
